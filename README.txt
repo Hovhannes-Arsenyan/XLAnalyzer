@@ -12,4 +12,4 @@ Core functions:
 08. Provides detailed information about the workbook's VBProject (Classes, Modules, UserForms, Document modules, comment, Code count (Gross + Net)).
 09. Provides detailed information of Windows OS's current active Regional settings that have relation to Excel (Decimal, digit, list, array separator characters, DateTime formats...).
 
-Has a "Check for updates" feature with versionning check tied to this repo's README.md in case of future releases.
+AddIn - .xlam file.
